@@ -64,3 +64,4 @@ That's it!!!
 ## Issues?
 
 Report issues at http://code.google.com/p/web2py/issues/
+#by Nazarii ^_^
